@@ -1,1 +1,1 @@
-# create
+# create QR code using javascript 
